@@ -5,6 +5,7 @@ RUN apt-get update -y && apt-get upgrade -y && apt-get install -y \
   php5-curl \
   php5-mcrypt \
   php5-mysql \
+  php5-gd \
   curl \
   mariadb-client \
   openssh-client \
